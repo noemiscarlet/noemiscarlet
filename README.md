@@ -5,8 +5,6 @@
 <div >
   <a href="https://github.com/noemiscarlet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noemiscarlet&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemiscarlet&layout=compact&langs_count=16&theme=shadow_green"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Noemi-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
