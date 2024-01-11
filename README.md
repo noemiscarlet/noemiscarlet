@@ -1,5 +1,7 @@
 ### Olá! Bem-vindo(a) ao meu mundo! Me chamo Noemi. 🌱
 
+📚- Estudando fila em Python;
+
 <div >
   <a href="https://github.com/noemiscarlet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noemiscarlet&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
