@@ -18,3 +18,10 @@
   <img align="center" alt="Noemi-Docker" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="right" alt="Viper-World" height="200" src="https://cdnb.artstation.com/p/assets/images/images/044/596/621/original/gabriel-brandao-alves-gif.gif?1640552929">
 </div>
+
+<div>
+  <a href="www.linkedin.com/in/emi-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:noemigiseleee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div/> 
+
+![Snake animation](https://github.com/noemiscarlet/noemiscarlet/blob/output/github-contribution-grid-snake.svg)
